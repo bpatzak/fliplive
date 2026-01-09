@@ -6,7 +6,7 @@ A lightweight, transparent, script‑driven environment for structural analysis.
 
 ## ✨ Try it in your browser ✨
 
-➡️ **hhttps://bpatzak.github.io/flip.live/notebooks/index.html?path=Welcome.ipynb**
+➡️ **https://bpatzak.github.io/flip.live/lab/index.html?path=Welcome.ipynb**
 
 Copyright (c) 2026 Bořek Patzák
 
